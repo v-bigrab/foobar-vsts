@@ -24,7 +24,11 @@ For information about features included in this release, see the following:
 * [Visual Studio Code](https://code.visualstudio.com/) or the [release notes](https://code.visualstudio.com/updates).  
 
 ### Download
-To install Visual Studio 2017, see [Visual Studio 2017 Downloads](https://www.visualstudio.com/downloads). 
+Download the latest version of Visual Studio 2017. Click the button to download.
+
+<a href="https://www.visualstudio.com/downloads"><img src="media/Download Button_VS2.png"></a> 
+
+**Note:** Installation package size will vary depending on your current Visual Studio configuration.  
 
 ### Older versions
 For older versions of Visual Studio, see the system requirements for [Visual Studio 2015](https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs), 
@@ -88,6 +92,7 @@ The following products support the minimum system requirements below:
   <td><p>**Additional Requirements**</p></td>
   <td>
     <ul>
+      <li>Administrator rights are required to install Visual Studio.</li>
       <li>.NET Framework 4.5 is required to install Visual Studio. Visual Studio requires .NET Framework 4.6.1, 
           which will be installed during setup.</li>
       <li>[Windows 10 Enterprise LTSB edition](https://technet.microsoft.com/itpro/windows/manage/waas-overview) and [Windows 10 S](https://www.microsoft.com/windows/windows-10-s) are not supported for development. 
@@ -150,6 +155,7 @@ The following products support the minimum requirements below:
   <td><p>**Additional Requirements**</p></td>
   <td>
     <ul>
+      <li>Administrator rights are required to install Visual Studio Team Foundation Server.</li>
       <li>.NET Framework 4.6.1, which will be installed during setup</li>
       <li>Microsoft SQL Server 2014 or Microsoft SQL Server 2016</li>
       <li>Team Foundation Server Web Client requires Microsoft Microsoft Edge, Internet Explorer 11, Google Chrome, Mozilla Firefox, or Apple Safari</li>

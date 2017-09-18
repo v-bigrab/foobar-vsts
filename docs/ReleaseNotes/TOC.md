@@ -1,11 +1,11 @@
 
-
 #Visual Studio 2017
 ##[Release Notes](vs2017-relnotes.md)
 ##[Preview Release Notes](vs2017-Preview-relnotes.md)
 ##[Distributable Code](https://www.visualstudio.com/productinfo/2017-redistribution-vs)
 ##[Platform Compatibility](https://www.visualstudio.com/productinfo/vs2017-compatibility-vs)
 ##[System Requirements](https://www.visualstudio.com/productinfo/vs2017-system-requirements-vs)
+##[Release Rhythm](https://www.visualstudio.com/en-us/productinfo/vs2017-release-rhythm)
 ## Visual Studio Support Resources
 ###[2017 FAQ](https://www.visualstudio.com/vs/support/)
 ###[Installation Guide](https://docs.microsoft.com/visualstudio/install/install-visual-studio)

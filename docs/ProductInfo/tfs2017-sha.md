@@ -6,13 +6,15 @@ author: reshmim
 ms.author: reshmim
 manager: sacalla
 ms.date: 07/24/2017
-ms.topic: release-article
+ms.topic: release-article, localize
 ms.prod: visual-studio-dev15
 ms.service: visualstudio
 ms.assetid: 3456a71e-bbb7-4a98-a116-0572d50d0869
 ---
 
 #<a id="top"> </a>  Team Foundation Server 2017 ISO Files SHA-1 Hashes
+
+Download the latest version of <a href="https://www.visualstudio.com/downloads" target="blank">Team Foundation Server 2017</a>.
 
 The Microsoft File Checksum Integrity Verifier tool is an unsupported command line utility that computes SHA-1 cryptographic hashes for files. After computing the SHA-1 hash for a downloaded ISO file, compare it to the expected hash for your download in the table below to verify the integrity of your download. If the hashes don't match, your download may be corrupted and you should download the file again.
 
@@ -22,8 +24,10 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 
 #### Team Foundation Server 2017 Update 2 RTW  
 
+Download the latest version of <a href="https://www.visualstudio.com/downloads" target="blank">Team Foundation Server Express 2017</a>. 
+
 | Language |  SHA-1 Hashes |                                      
-| ------------------------------- | ----------------------------------------- 
+| ------------------------------- | -----------------------------------------
 |Chinese-Simplified | 98F15C4F999900628017D4255CA60F1816301713
 |Chinese-Traditional | CE13508EEDB7F5345BF6AFEA5CE789BB2578FCC1
 |German | D21AC2917D309D7F5E361A71E6B06A92F6F91581
@@ -38,7 +42,7 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 </br>
 
 #### Team Foundation Server Express 2017  Update 2 RTW   
-          
+
 | Language |  SHA-1 Hashes |                                      
 | ------------------------------- | -----------------------------------------  
 |Chinese-Simplified | B62DD63CA4217DCC0174C0EA8FEF6611B83594A4
@@ -58,7 +62,7 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 #### Team Foundation Server 2017 Update 2 RC2   
 
 | Language |  SHA-1 Hashes |                                      
-| ------------------------------- | ----------------------------------------- 
+| ------------------------------- | -----------------------------------------
 |Chinese-Simplified | 9470DBBBFF13D977741A5A90C255C9F8262F8516
 |Chinese-Traditional | 96E401482A1886D15F5FBDDFA5F10A6E356D1D84
 |German | 941C7395F394C2FD2511DE2415D42096B5A5B996
@@ -72,8 +76,8 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 
 </br>
 
-#### Team Foundation Server Express 2017  Update 2 RC2 
-          
+#### Team Foundation Server Express 2017  Update 2 RC2
+
 | Language |  SHA-1 Hashes |                                      
 | ------------------------------- | -----------------------------------------  
 |Chinese-Simplified | 697965F618770FC2A8582E44EB6A4B294678C946
@@ -95,7 +99,7 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 #### Team Foundation Server 2017 Update 1
 
 | Language |  SHA-1 Hashes |                                      
-| ------------------------------- | ----------------------------------------- 
+| ------------------------------- | -----------------------------------------
 |Chinese-Simplified | C0B47CFB12A230BB5F7A69384D03C894469C3F16
 |Chinese-Traditional | CA6156E0A53A39415B12A3E831A85CF4098B5A48
 |German | A5A93958C630270B8494BC34A77D47A5437A7637
@@ -109,10 +113,10 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 
 </br>
 
-#### Team Foundation Server Express 2017 Update 1 
+#### Team Foundation Server Express 2017 Update 1
 
 | Language |  SHA-1 Hashes |                                      
-| ------------------------------- | ----------------------------------------- 
+| ------------------------------- | -----------------------------------------
 |Chinese-Simplified | 0E37D27D97D1B2DA919C4EF57BB07DED43B392A3
 |Chinese-Traditional | 69D6C075E35BA2F429229B8E6B78B8121105ECE1
 |German | 429C598D0732A2342DE1B15311BF6A0D640F5778
@@ -130,7 +134,7 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 #### Team Foundation Server 2017  
 
 | Language |  SHA-1 Hashes |                                      
-| ------------------------------- | ----------------------------------------- 
+| ------------------------------- | -----------------------------------------
 |Chinese-Simplified | 82EC8E6465219BEADC31B33C1CCFFE8DD825C62B
 |Chinese-Traditional | 59B8884CEF4EC85EDDC0709E3AF17CBD137054DA
 |German | 0EE1D0CADEB61A6073B9A8AA1CB18497F00924CD
@@ -145,13 +149,13 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 </br>
 
 #### Team Foundation Server Express 2017
-          
+
 | Language |  SHA-1 Hashes |                                      
 | ------------------------------- | -----------------------------------------  
 |Chinese-Simplified | 2ABA5C3C78AEAE6971B5851C15CCA281F17DAB62
 |Chinese-Traditional | 53538395788F4C159DD1942F5E08DC485E616A3F
 |German | A4F7F35833AAF4D4E79A10A4A35501C85AA81167
-|English | 16436BCAB27404A71B49F3BF5CC4F8305F5AE8C6 
+|English | 16436BCAB27404A71B49F3BF5CC4F8305F5AE8C6
 |Spanish | 16317ED8A9EA9E2DD8732299CA01ECB38344091A
 |French | 060DFEB3463D93CFF8961A7F45224D9FEB449647
 |Italian | 8E95EF844E9C2D674E8BAA287ADBC54FD722C1A4
@@ -162,20 +166,19 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 </br>
 
 #### Team Foundation Server Office® Integration 2017
-          
+
 | Language |  SHA-1 Hashes |                                      
-| ------------------------------- | ----------------------------------------- 
+| ------------------------------- | -----------------------------------------
 |Chinese-Simplified | B164870040C864B0C08B6E9106EFD574E8D16AFF
 |Chinese-Traditional | 50BC3819F5D89A95572A26974814F85AE858F6CF
 |German | 51AF501E327EA30CBFB124C78BFD46791D256F6A
-|English | 276B9929F61444461BA607101D2B389369440523	
+|English | 276B9929F61444461BA607101D2B389369440523
 |Spanish | C10FF8F4172AFAD1672FE8149833D00EC2B4ED4D
 |French | 819E4920BEE24BF97D5595B01CCC84D36CC2B968
 |Italian | 617DD4A3809ED2D2E666BAF605AFA28951D104BC
 |Japanese | B7C0D4B5668088F3BB9AB231D4C81D82452132FB
-|Korean | A4154C31365886D725E29FE93C356465D6210998	
+|Korean | A4154C31365886D725E29FE93C356465D6210998
 |Russian | 7B651E2542A2AC722ACBA7B85E6F1D8061F568BD
 
 
 [Top of Page](#top)
-

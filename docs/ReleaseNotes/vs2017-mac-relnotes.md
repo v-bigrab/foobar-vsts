@@ -7,9 +7,8 @@ ms.author: crdun
 manager: sacalla
 ms.date: 08/11/2017
 ms.topic: release-article
-ms.prod: visual-studio-mac
-ms.technology: general-release-notes
-ms.service: visualstudio
+ms.prod: vs-alm-devops
+ms.technology: vs-devops-articles
 ms.assetid: 09b540b2-4e06-4f2d-95aa-28dc2797a8f6
 ---
 

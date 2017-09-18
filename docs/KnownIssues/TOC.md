@@ -41,7 +41,7 @@
 ##[TFS Update 2](https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-update2) 
 ##[TFS Update 1](https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-update1)
 ##[TFS RTW](https://www.visualstudio.com/en-us/news/releasenotes/tfs2017-relnotes)
-##[SHA-1 Values](https://www.visualstudio.com/en-us/productinfo/vs2017-sha-vs)
+##[SHA-1 Values](https://www.visualstudio.com/en-us/productinfo/tfs2017-sha)
 #[Previous Versions of Team Foundation Server](https://www.visualstudio.com/en-us/news/releasenotes/archived-relnotes)
 
 #[Servicing for Visual Studio Products](https://www.visualstudio.com/en-us/productinfo/vs-servicing-vs)

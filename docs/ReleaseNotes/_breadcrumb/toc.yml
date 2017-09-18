@@ -1,0 +1,109 @@
+- name: News
+  tocHref: /
+  topicHref: /
+  items:
+  - name: Release Notes
+    tocHref: /releasenotes/
+    topicHref: /releasenotes 
+    items:
+    - name: Visual Studio 2017
+      tocHref: /releasenotes/
+      topicHref: /releasenotes
+      items: 
+      - name: Visual Studio 2017 Release Notes
+        tocHref: /releasenotes/
+        topicHref: /releasenotes/vs2017-relnotes
+      - name: Visual Studio 2017 Preview Release Notes
+        tocHref: /releasenotes/
+        topicHref: /releasenotes/vs2017-preview-relnotes
+      - name: Distributable Code
+        tocHref: /productinfo/   
+        topicHref:: https://www.visualstudio.com/productinfo/2017-redistribution-vs
+      - name: Platform Compatibility
+        tocHref: /productinfo/   
+        topicHref: https://www.visualstudio.com/productinfo/vs2017-compatibility-vs
+      - name: System Requirements
+        tocHref: /productinfo/   
+        topicHref: https://www.visualstudio.com/productinfo/vs2017-system-requirements-vs
+      - name: License Terms
+        tocHref: /releasenotes/   
+        topicHref: https://www.visualstudio.com/license-terms/
+      - name: Release Rhythm
+        tocHref: /productinfo/   
+        topicHref: https://www.visualstudio.com/productinfo/vs2017-release-rhythm
+    - name: Visual Studio 2015
+      tocHref: /releasenotes/   
+      topicHref: /releasenotes/vs2015-archive
+      items:
+       - name: SHA-1 Values
+         tocHref: /productinfo/
+         topicHref: https://www.visualstudio.com/productinfo/vs2015-sha-vs
+    - name: Visual Studio 2013
+      tocHref: /releasenotes/   
+      topicHref: /releasenotes/vs2013-archive
+      items:
+      - name: SHA-1 Values
+        tocHref: /productinfo/
+        topicHref: https://www.visualstudio.com/productinfo/vs2013-sha-vs
+    - name: Visual Studio 2012
+      tocHref: /releasenotes/
+      topicHref: /releasenotes/vs2012-archive
+    - name: Visual Studio 2012
+      tocHref: /releasenotes/
+      topicHref: /releasenotes/vs2012-archive 
+    - name: Visual Studio 2017 for Mac
+      tocHref: /releasenotes/  
+      items: 
+        - name: Release Notes
+          tocHref: /releasenotes/
+          topicHref: /releasenotes/vs2017-mac-relnotes
+        - name: Distributable Code
+          tocHref: /productinfo/
+          topicHref: https://www.visualstudio.com/productinfo/2017-redistribution-vs
+        - name: Platform Compatibility
+          tocHref: /productinfo/   
+          topicHref: https://www.visualstudio.com/productinfo/vs2017-compatibility-mac
+        - name: System Requirements
+          tocHref: /productinfo/   
+          topicHref: https://www.visualstudio.com/productinfo/vs2017-system-requirements-mac
+        - name: Introducing Visual Studio for Mac
+          tocHref: /releasenotes/  
+          topicHref: https://docs.microsoft.com/visualstudio/mac/
+    - name: Team Foundation Server 2018
+      tocHref: /releasenotes/   
+      items:
+        - name: TFS RTW
+          tocHref: /releasenotes/
+          topicHref: /releasenotes/tfs2018-relnotes
+        - name: Sha-1 Values
+          tocHref: /releasenotes/
+          topicHref: https://www.visualstudio.com/productinfo/tfs2018-sha
+    - name: Team Foundation Server 2017
+      tocHref: /releasenotes/
+      topicHref: NNN
+      items:
+      - name: TFS Update 2
+        tocHref: /releasenotes/
+        topicHref: /releasenotes/tfs2017-update2
+      - name: TFS Update 1
+        tocHref: /releasenotes/
+        topicHref: /releasenotes/tfs2017-update1
+      - name: TFS 2017 RTW
+        tocHref: /releasenotes/
+        topicHref: /releasenotes/tfs2017-relnotes
+      - name: Sha-1 Values
+        tocHref: /releasenotes/
+        topicHref: https://www.visualstudio.com/en-us/productinfo/tfs2017-sha
+      - name: Previous Versions of TFS
+        tocHref: /releasenotes/
+        topicHref: /releasenotes/archived-relnotes
+        items:
+        - name: Servicing for Visual Studio Products
+          tocHref: /releasenotes/
+          topicHref: https://www.visualstudio.com/en-us/productinfo/vs-servicing-vs
+      - name: Servicing for Visual Studio for Mac
+        tocHref: /releasenotes/
+        topicHref: https://www.visualstudio.com/en-us/productinfo/vs-servicing-mac
+      - name: Visual Studio 2017 Release Rhythm
+        tocHref: /releasenotes/
+        topicHref: https://www.visualstudio.com/en-us/productinfo/vs2017-release-rhythm

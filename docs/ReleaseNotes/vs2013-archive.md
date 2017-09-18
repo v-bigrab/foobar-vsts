@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 08/14/2017
 ms.topic: release-article
-ms.prod: visual-studio
-ms.service: visualstudio
+ms.prod: vs-alm-devops
+ms.technology: vs-devops-articles
 ms.assetid: fd488c8c-71af-418a-bb39-01412b20cb12
 ---
 #<a id="top"> </a> Visual Studio 2013 Release Notes

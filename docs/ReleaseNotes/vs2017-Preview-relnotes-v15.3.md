@@ -6,7 +6,7 @@ author: reshmim
 manager: sacalla
 ms.author: reshmim
 ms.date: 08/01/2017
-ms.topic: release-article
+ms.topic: release-article, localize
 ms.prod: visual-studio-dev15
 ms.service: visualstudio
 ms.assetid: f817f890-8bda-4ab6-bf00-86ab10c0be2b

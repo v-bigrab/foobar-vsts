@@ -6,9 +6,9 @@ author: reshmim
 ms.author: reshmim
 manager: sacalla
 ms.date: 08/30/2017
-ms.topic: release-article
-ms.prod: visual-studio-tfs-dev15
-ms.service: visualstudio
+ms.topic: release-article, localize
+ms.prod: vs-alm-devops
+ms.technology: vs-devops-articles
 ms.assetid: 597cd82a-995f-4acc-8142-51659c3897a5
 ---
 
@@ -766,11 +766,9 @@ While analyzing the test result in the **Build** or **Release** summary page or 
 
 ### <a id="sp"> </a> Discontinuing TFS Extension for SharePoint
 TFS 2018 and later versions will no longer support the TFS Extension for SharePoint. Additionally, the screens used to configure integration between a TFS Server and a SharePoint server have been removed from the Team Foundation Administration Console. 
+**If you are upgrading to TFS 2018 from a previous version configured to integrate with SharePoint, you will need to disable the SharePoint integration after upgrade, or your TFS SharePoint sites will fail to load**. 
 
-Going forward we will not be supporting server-to-server integration and will be integrating using public APIs and extensibility frameworks.
-
-If you are upgrading a server with TFS/SharePoint integration configured, we have provided a solution for you to "upgrade away" from the server-to-server integration. Your TFS SharePoint sites will continue to display after upgrade, but integration features will be disabled. 
-For more details and instructions, please go [here](https://go.microsoft.com/fwlink/?linkid=852977).
+We have created a solution that allows you to disable integration on the SharePoint server. For more information, please see the post on [the future of our TFS/SharePoint Integration](https://go.microsoft.com/fwlink/?linkid=852977).
 
 ### <a id="tr"> </a> Discontinuing Team Rooms
 Modern development teams heavily depend on collaboration. People want (and need) a place to monitor activity (notifications) and talk about it (chat). A few years back, we recognized this trend and set out to build the [Team Room](https://www.visualstudio.com/en-us/docs/collaborate/collaborate-in-a-team-room) to support these scenarios. Since that time, we have seen more solutions to collaborate emerge in the market. Most notably, the rise of [Slack](https://marketplace.visualstudio.com/search?term=slack&target=VSTS&category=All%20categories&sortBy=Relevance). And more recently, the announcement of [Microsoft Teams](https://marketplace.visualstudio.com/items?itemName=ms-vsts.vss-services-teams).

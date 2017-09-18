@@ -5,10 +5,10 @@ keywords: visualstudio> [!IMPORTANT]
 author: reshmim
 ms.author: reshmim
 manager: sacalla
-ms.date: 08/29/2017
-ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.date: 09/12/2017
+ms.topic: release-article, localize
+ms.prod: vs-alm-devops
+ms.technology: vs-devops-articles
 ms.assetid: 550353ed-3edc-4e9e-989e-1a01df0fe259
 ---
 
@@ -16,28 +16,53 @@ ms.assetid: 550353ed-3edc-4e9e-989e-1a01df0fe259
 
 ****
 
-[Developer Community](https://developercommunity.visualstudio.com/topics/Fixed-in%3A+Visual+Studio+2017+version+15.3.html) | [System Requirements](https://www.visualstudio.com/productinfo/vs2017-system-requirements-vs) | [Compatibility](https://www.visualstudio.com/productinfo/vs2017-compatibility-vs) | [Distributable Code](https://www.visualstudio.com/productinfo/2017-redistribution-vs) | [License Terms](https://www.visualstudio.com/license-terms/) | [Blogs](https://blogs.msdn.microsoft.com/developer-tools/) | [Known Issues](https://developercommunity.visualstudio.com/topics/Known+issue-in%3A+Visual+Studio+2017+version+15.3.html)
+<a href="https://developercommunity.visualstudio.com/topics/visual+studio+2017.html?sort=newest&topics=visual studio 2017" target="blank">Developer Community</a> |
+<a href="https://www.visualstudio.com/productinfo/vs2017-system-requirements-vs" target="blank">System Requirements</a> |
+<a href="https://www.visualstudio.com/productinfo/vs2017-compatibility-vs" target="blank">Compatibility</a> |
+<a href="https://www.visualstudio.com/productinfo/2017-redistribution-vs" target="blank">Distributable Code</a> |
+<a href="https://www.visualstudio.com/license-terms" target="blank">License Terms</a> |
+<a href="https://blogs.msdn.microsoft.com/developer-tools" target="blank">Blogs</a> |
+<a href="https://developercommunity.visualstudio.com/topics/Known+issue-in%3A+Visual+Studio+2017+version+15.3.html" target="blank">Known Issues</a>
 
 ****
 
-This article contains information about the newest release for Visual Studio 2017 version 15.3. Click the button to download.
+This article contains information about the newest release for Visual Studio 2017 version 15.3. Click the button to download the latest version.
 
 <a href="https://www.visualstudio.com/downloads"><img src="media/Download Button_VS2.png"alt="Download the latest version of Visual Studio 2017"></a> **For more information, refer to our [installation](https://docs.microsoft.com/visualstudio/install/install-visual-studio) and [offline installation](https://docs.microsoft.com/en-us/visualstudio/ide/create-an-offline-installation-of-visual-studio) documents.**
 
 ### <a id="Feedback"></a> Feedback  
-We’d love to hear from you! You can report a problem from the [Report a Problem](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) option in 
+We’d love to hear from you! You can report a problem from the [Report a Problem](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) option in
 either the installer or the Visual Studio IDE itself. The <img src="media/Feedback_icon.png" alt="Feedback Icon"> icon is located in the upper right hand corner. You can track your feedback in the [Developer Community](https://developercommunity.visualstudio.com/index.html) portal. For suggestions,
 let us know through the [UserVoice](https://visualstudio.uservoice.com/forums/121579-visual-studio) site.
 
 ### Release History
-* August 29, 2017 Visual Studio 2017 version 15.3.3 <img src="media/Download Button_New.png" alt="New Release icon">
-* [May 10, 2017](vs2017-relnotes-v15.2.md) Visual Studio 2017 version 15.2 
+* [August 14, 2017](#15.3) Visual Studio 2017 version 15.3 <img src="media/Download Button_New.png" alt="New Release icon">
+* [May 10, 2017](vs2017-relnotes-v15.2.md) Visual Studio 2017 version 15.2
 * [April 5, 2017](vs2017-relnotes-v15.1.md) Visual Studio 2017 version 15.1
 * [March 31, 2017](vs2017-relnotes-v15.0.md) Visual Studio 2017 version 15.0
 
 You can learn more about how we ship our releases in the [Visual Studio 2017 Release Rhythm] (https://www.visualstudio.com/productinfo/vs2017-release-rhythm) document.
 
-<hr style="border:1px solid Silver"> 
+<hr style="border:1px solid Silver">
+
+
+## <a id="15.3.5"></a>Release Date: September 19, 2017 - Visual Studio 2017 version 15.3.5
+
+### Issues Fixed in September 19, 2017 Release
+These are the customer-reported issues addressed in this version:
+* Introduced support for Apple's Xcode 9, iOS 11, tvOS 11 and watchOS 4
+
+<hr style="border:1px solid Silver">
+
+## <a id="15.3.4"></a>Release Date: September 12, 2017 - Visual Studio 2017 version 15.3.4
+
+### Issues Fixed in September 12, 2017 Release
+These are the customer-reported issues addressed in this version:
+* ["TF30063: You are not authorized to access .visualstudio.com\" after upgrading to VS2017 15.3](https://developercommunity.visualstudio.com/content/problem/93366/tf30063-you-are-not-authorized-to-access-visualstu.html)
+* [Error installing GitHub extension](https://developercommunity.visualstudio.com/content/problem/102178/error-installing-github-extension.html)
+
+<hr style="border:1px solid Silver">
+
 ## <a id="15.3.3"></a>Release Date: August 29, 2017 - Visual Studio 2017 version 15.3.3
 
 ### Issues Fixed in August 29, 2017 Release
@@ -67,7 +92,7 @@ Additional fixes included in this release:
 * Dump capture for linked files.
 * Silent bad codegen due to loop optimization.
 
-****
+<hr style="border:1px solid Silver">
 
 ## <a id="15.3.1"></a>Release Date: August 18, 2017 - Visual Studio 2017 version 15.3.1
 ### Issues Fixed in this Release
@@ -77,7 +102,9 @@ These are the customer-reported issues addressed in this version:
 * [F# Editor loses focus when typing `arrow`, `backspace`, or `newline` keys.](https://developercommunity.visualstudio.com/content/problem/92832/using-f-tools-enter-backspace-and-arrow-keys-will.html)
 * [R Tools missing translations.](https://developercommunity.visualstudio.com/content/problem/95381/r-tools-has-english-strings-even-with-a-language-p.html)
 
-****
+<hr style="border:1px solid Silver">
+
+## <a id="15.3"></a>Release Date: August 14, 2017 - Visual Studio 2017 version 15.3
 
 ## Summary: What's New in this Release
 * [Accessibility Improvements](#Accessibility) make Visual Studio more accessible than ever.
@@ -93,10 +120,10 @@ These are the customer-reported issues addressed in this version:
 * [Visual C++ Toolset](#C++ToolsetLibs15) supports command-prompt initialization targeting.
 * We added the ability to use [C# 7.1 Language](#cs71) features.
 * You can install [TypeScript](#typescript) versions independent of Visual Studio updates.
-* We added support for [Node 8 debugging](#Node.js). 
+* We added support for [Node 8 debugging](#Node.js).
 * [NuGet](#NuGetimprovements15P3) has added support for new TFMs (netcoreapp2.0, netstandard2.0, Tizen), Semantic Versioning 2.0.0, and MSBuild integration of NuGet warnings and errors.
-* Visual Studio now offers [.NET Framework 4.7](#dotnet47) development tools to supported platforms with 4.7 runtime included. 
-* We added clusters of related events to the search query results in the [Application Insights](#appInsights) Search tool. 
+* Visual Studio now offers [.NET Framework 4.7](#dotnet47) development tools to supported platforms with 4.7 runtime included.
+* We added clusters of related events to the search query results in the [Application Insights](#appInsights) Search tool.
 * We improved syntax support for SQL Server 2016 in [Redgate](#redgate) SQL Search.
 * We enabled support for [Microsoft Graph APIs](#MSGraph) in Connected Services.
 
@@ -122,25 +149,25 @@ The Developer Community spoke and we listened. This list provides the 10 highest
 
 ## Details: What's New in this Release
 ### <a id="Accessibility"> </a> Accessibility
-We addressed over 1,700 accessibility issues in this release and made Visual Studio more accessible than ever. 
-You have access to the new “Blue (Extra Contrast)” theme *(Figure 1)*. This theme offers you more contrast than the regular "Blue" theme if you don't want or need the full High Contrast mode. 
+We addressed over 1,700 accessibility issues in this release and made Visual Studio more accessible than ever.
+You have access to the new “Blue (Extra Contrast)” theme *(Figure 1)*. This theme offers you more contrast than the regular "Blue" theme if you don't want or need the full High Contrast mode.
 
  <img src="media/BlueTheme.png" alt="BlueTheme" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 1) Blue (Extra Contrast) theme*</center> 
+<center>*(Figure 1) Blue (Extra Contrast) theme*</center>
 
 With Visual Studio Editor, you can discover and navigate between text adornments via the new "Show Line Annotations" command set. You can find the new feature on the **Editor context menu** *(Figure 2)*.  See the [Visual Studio Editor](#VSEditor153) section for more information.
- 
+
  <img src="media/ShowLineAnnotation.png" alt="Show Line Annotations" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 2) Show Line Annotations*</center> 
+<center>*(Figure 2) Show Line Annotations*</center>
 
 For more accessibility news, visit the [Accessibility improvements in Visual Studio 2017 version 15.3](https://blogs.msdn.microsoft.com/visualstudio/2017/08/14/accessibility-improvements-in-visual-studio-2017-version-15-3/) blog post.
 
 ****
 ### <a id="azstack"</a> Azure Stack and Azure Government Clouds
-Use all the same tools in Visual Studio &#8212; like Cloud Explorer, Connected Services and ASP.NET Publish &#8212; to connect Azure Stack and government clouds. Pick an existing government cloud, like Azure in China *(Figure 3)*, or enter the  discovery endpoint for your organization’s Azure Stack. 
+Use all the same tools in Visual Studio &#8212; like Cloud Explorer, Connected Services and ASP.NET Publish &#8212; to connect Azure Stack and government clouds. Pick an existing government cloud, like Azure in China *(Figure 3)*, or enter the  discovery endpoint for your organization’s Azure Stack.
 
  <img src="media/AzureStack.jpg" alt="Azure Stack" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 3) Azure Stack*</center> 
+<center>*(Figure 3) Azure Stack*</center>
 
 ### <a id="azfunctions"></a> Azure Function Tools
 * Tools for developing C# Azure Functions are included as part of the “Azure development” workload.
@@ -156,12 +183,12 @@ For more details, see the [Visual Studio 2017 Tools for Azure Functions](https:/
 * You can install .NET Core 2.0 SDK via a separate download to enable .NET Core 2.0 development in Visual Studio 2017 version 15.3. Visual Studio now provides side-by-side support of multiple .NET Core SDKs. You can experiment with the latest daily build of the .NET Core SDK while you develop with the latest public release of the SDK. See [.NET blog](https://go.microsoft.com/fwlink/?linkid=853702) for details.
 * With Visual Basic support, you now have the ability to create .NET Core console applications, and .NET Core, and .NET Standard class libraries in Visual Basic.
 * .NET Framework and .NET Standard/Core interop allows you to refer to .NET Core/.NET Standard libraries from .NET Framework projects and vice versa. No need to manually add interop NuGet packages – Visual Studio does this for you automatically.
-* Multiple target framework support enhancement allows you to build your project for multiple target frameworks (TFM), and use the TFM picker in **Debug/Run** to pick the TFM to run. 
+* Multiple target framework support enhancement allows you to build your project for multiple target frameworks (TFM), and use the TFM picker in **Debug/Run** to pick the TFM to run.
 * We added Windows Nano Server image support for containerizing ASP.NET Core apps as Windows Nano Server images. You can now select Windows Nano Server as the container platform. You can do this under **File->New Project** for ASP.NET Core projects. For your existing projects, it can be added using the **Project Context Menu**.
-* Local IIS support: You can now develop and debug using IIS from Visual Studio. 
+* Local IIS support: You can now develop and debug using IIS from Visual Studio.
 * ASP.NET Core on .NET Framework – When you create an ASP.NET Core project targeting the full .NET Framework (Windows only), you will use the dropdown on the One ASP.NET dialog.
 * The Live Unit Testing feature can be enabled for your .NET Standard, .NET Core, and ASP.NET Core projects.
- 
+
 #### Service Fabric Tools
 This release provides a new stateful ASP.NET Core project template, support for both 2.5 and 2.6 SDK's (and corresponding runtimes) of Service Fabric, as well as several bug fixes.
 
@@ -177,7 +204,7 @@ We moved these features from the CD4VS (Microsoft Continuous Delivery Tools for 
 * The diagnostic system informs you via the **InfoBar** about extensions that might have been involved in an unexpected termination of Visual Studio *(Figure 4)*. The **InfoBar** provides this information about the termination and asks if you would like to disable the suspected extension.
 
  <img src="media/InfoBar.png" alt="InfoBar" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 4) InfoBar notification*</center> 
+<center>*(Figure 4) InfoBar notification*</center>
 
 * In open folder scenarios, you can select your desired debugger via dedicated UI.
 * We’ve stopped sharing certain settings, like tool window layout, between different side-by-side installations of Visual Studio 2017. For more information, see the [Synchronize your settings in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/synchronized-settings-in-visual-studio#side-by-side-synchronized-settings) documentation.
@@ -187,23 +214,23 @@ We moved these features from the CD4VS (Microsoft Continuous Delivery Tools for 
 #### .NET IDE
 
 * We added several new refactorings and quick fixes, like "Resolve merge conflicts", "Add null checks", "Add parameter", and many more. Take a look at our [Refactoring, Code Generation and Quick Actions in Visual Studio](https://docs.microsoft.com/visualstudio/ide/refactoring-code-generation-quick-actions) page to see the full list.
-* We suggest variable names in IntelliSense to help you name your variables quickly, for example, ```Person person```. 
+* We suggest variable names in IntelliSense to help you name your variables quickly, for example, ```Person person```.
 * **Edit and Continue** supports C# 7.0 features (except local functions).
 * We added support for file globbing outside of your project folder for .NET Core.
 
 #### Sign In and Identity
 We fixed the **account picker control** so "Re-enter credentials" works more reliably. In some cases, the account picker would clear accounts upon re-entering credentials.
 
-#### Start Page 
-We increased the clickable target area on Start Page MRU “pins”. It's easier to pin items you care about to the top of the MRU. 
+#### Start Page
+We increased the clickable target area on Start Page MRU “pins”. It's easier to pin items you care about to the top of the MRU.
 
-#### Lightweight Solution Load 
+#### Lightweight Solution Load
 * We increased build speed and stability.
 * We reduced the number of loaded projects.
 * We added a new option *(Figure 5)* that allows Visual Studio to decide what’s best for your solution.
 
 <img src="media/LSLOptions.jpg" alt="Lightweight Solution Load Options" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 5) Lightweight Solution Load Options*</center> 
+<center>*(Figure 5) Lightweight Solution Load Options*</center>
 
 * We added file search results solutions to search for deferred projects, instead of just loaded projects.  
   * When you load a project, all existing searches are refreshed to add progression results.
@@ -224,7 +251,7 @@ We increased the clickable target area on Start Page MRU “pins”. It's easier
 * We added details that show the net size impact per drive to the installation details page. *(Figure 6)*.
 
 <img src="media/DriveSize.png" alt="Drive Sizes in the Installer" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 6) Drive Sizes listed in the Installer*</center> 
+<center>*(Figure 6) Drive Sizes listed in the Installer*</center>
 
 ****
 
@@ -242,16 +269,16 @@ We increased the clickable target area on Start Page MRU “pins”. It's easier
 * You can query and download symbols *(Figure 7)* from Visual Studio Team Services Symbol Servers. You can select and add Visual Studio Team Services symbol paths to your Visual Studio environment using the **Tools->Options->Debugger->Symbols** page. To set up a Visual Studio Team Services Symbol Server, see the [Use Symbol Server in Team Services](https://go.microsoft.com/fwlink/?linkid=846265) page.  
 
 <img src="media/vsts.jpg" alt="Add VSTS Symbol Server" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 7) Add VSTS Symbol Server*</center> 
+<center>*(Figure 7) Add VSTS Symbol Server*</center>
 * The [SetThreadDescription API](https://msdn.microsoft.com/library/windows/desktop/mt774976.aspx) is supported while debugging when you use Start Debugging (`F5`) or Attach to Process (`Ctrl+Alt+P`). The thread names that are set via this API now show up in the Threads window and in the Thread dropdown in the Debug Location toolbar. This is not currently supported while [dump debugging.](https://msdn.microsoft.com/library/d5zhxt22.aspx)
-* The Output Window now shows you the console output of an application running inside a Windows Container while debugging. 
+* The Output Window now shows you the console output of an application running inside a Windows Container while debugging.
 * We added new support for debugging .NET Core apps you run inside Windows Containers based on Windows Nano Server.
 
 #### Point and Click to Set Next Statement
 You can hold down the `Ctrl` key while stopped at a breakpoint when debugging. The `Run to Click` (Run execution to here) icon next to your line of code changes to “Set Next Statement” functionality *(Figure 8)*. Click the icon to move the yellow instruction pointer to that line and set the next statement for the debugger to execute.
 
 <img src="media/setNextStatement.jpg" alt="Click to Set Next Statement" style="border:3px solid Silver; display: block; margin: auto;">
-<center>*(Figure 8) Click to set Next Statement*</center> 
+<center>*(Figure 8) Click to set Next Statement*</center>
 
 #### Source Link Support for Windows PDB File Format
 Source Link is now supported for Windows PDB file format (in addition to Portable PDBs). Compilers that support it can put the necessary information in the Windows PDB file format and the debugger can retrieve source files based on that information.
@@ -275,7 +302,7 @@ For a complete overview of changes, be sure to check out [developer.xamarin.com]
 
 ****
 
-### Open Folder and <a id="cmake"> </a> CMake Tools 
+### Open Folder and <a id="cmake"> </a> CMake Tools
 * We improved stability for toggling between folder and solution.
 * Open folder extenders can add a source control icon to your folders. This allows you to quickly see the source control state of your files in Solution Explorer, which is currently implemented by SVN.
 * The CMake experience in Visual Studio is upgraded to [CMake 3.8](https://blogs.msdn.microsoft.com/vcblog/2017/06/14/cmake-support-in-visual-studio-whats-new-in-2017-15-3-preview-2/).
@@ -306,7 +333,7 @@ The “Enable Faster Project Load” option under Experimental options has been 
 
 ### <a id="C++ToolsetLibs15"></a> Visual C++ Toolset and Libraries
 * The Developer Command Prompt for Visual Studio (and the Visual C++ Command Prompt) have added support for initializing a command-prompt environment targeting the Visual C++ 2015 Toolset (v140) via the `-vcvars_ver=14.0` argument.
-* Visual C++ Redist file directories have been renamed to Microsoft.VC141.* to match versioning with the toolset (14.1x). In Visual Studio 2017 RTM, these directories were incorrectly named Microsoft.VC150.*. 
+* Visual C++ Redist file directories have been renamed to Microsoft.VC141.* to match versioning with the toolset (14.1x). In Visual Studio 2017 RTM, these directories were incorrectly named Microsoft.VC150.*.
 * Visual C++ File Version and Directories (Visual Studio 2017 15.3) :
     * VC++ Toolset File Version : 14.11.25506.0 or 19.11.25506.0
     * VC++ Tools Directory      : VC\Tools\MSVC\14.11.25503  (directory location was locked in a Preview release)
@@ -343,19 +370,19 @@ The “Enable Faster Project Load” option under Experimental options has been 
 * We have added support for Semantic Versioning 2.0.0.
 
 You can find more details about these improvements and the complete list of bug fixes in the [NuGet release notes](https://go.microsoft.com/fwlink/?linkid=854734).
- 
+
 ****
 
 ### <a id="dotnet47"> </a> .NET Framework 4.7
 Visual Studio 2017 version 15.3 now offers the .NET Framework 4.7 development tools to all supported platforms with the 4.7 runtime included. The .NET Framework 4.7 offers several new features and improvements as well as numerous reliability, stability, security, and performance fixes.  
 
-You can find more details about .NET 4.7 in these articles: 
+You can find more details about .NET 4.7 in these articles:
 * [.NET Framework 4.7 RTM Blog](http://go.microsoft.com/fwlink/?LinkId=845636)  
 * [What's New in the .NET Framework](http://go.microsoft.com/fwlink/?LinkId=845635)   
 * [.NET Framework 4.7 Release Change Notes](http://go.microsoft.com/fwlink/?LinkId=845633)  
 * [Known issues in the .NET Framework 4.7](http://go.microsoft.com/fwlink/?LinkId=825308)
 * [Application Compatibility in the .NET Framework 4.7](http://go.microsoft.com/fwlink/?LinkId=825324)  
-* [The .NET Framework API diff](http://go.microsoft.com/fwlink/?LinkId=825323) 
+* [The .NET Framework API diff](http://go.microsoft.com/fwlink/?LinkId=825323)
 
 #### Container Development Tools
 Visual Studio 2017 version 15.3 now supports the breadth of container development across existing .NET Framework apps with Windows Containers, to .NET Core with Windows, and Linux Support.   Recent additions include support for your .NET Core applications in containers running Windows Nano Server, as well as debugging improvements for .NET Framework applications in containers.
@@ -382,7 +409,7 @@ Fixes for top customer reported issues:
 We removed the introduction dialog that appeared upon first use of Redgate Data Tools.
 
 #### Redgate SQL Prompt
-We made formatting improvements. 
+We made formatting improvements.
 
 #### Redgate ReadyRoll
 * The ReadyRoll open project window has been redesigned.
@@ -408,26 +435,26 @@ We made formatting improvements.
 ****
 
 ### <a id="MSGraph"></a> Microsoft Graph Provider in Connected Services
-We have enabled support for Microsoft Graph APIs in Connected Services. We've made Installation easier. Just open the Connected Services dialog to access and install *(Figure 9)*. 
+We have enabled support for Microsoft Graph APIs in Connected Services. We've made Installation easier. Just open the Connected Services dialog to access and install *(Figure 9)*.
 
 <img src="media/Microsoft Graph.png" alt="Install Microsoft Graph provider" style="border:3px solid Silver; display: block; margin: auto;">
 <center>*(Figure 9) Install Microsoft Graph provider*</center>
 
-<hr style="border:1px solid Silver"> 
+<hr style="border:1px solid Silver">
 
 ## [Blogs](https://blogs.msdn.microsoft.com/developer-tools/)  
 <a href="https://blogs.msdn.microsoft.com/developer-tools/ "><img src="media/Blogs Button.png" alt="Developer Tools Blogs"></a> Take advantage of the insights and recommendations available in the Developer Tools Blogs site.  
 
 The [Developer Tools Blogs]( https://blogs.msdn.microsoft.com/developer-tools/) keep you up-to-date on all new releases and include deep dive posts on a broad range of features. For insights into the .NET world, check out the [DotNet Blog](http://blogs.msdn.microsoft.com/dotnet/). You can find detailed expertise in each language area team blog &#8212; [C#]( https://blogs.msdn.microsoft.com/dotnet/tag/c/), [VB]( https://blogs.msdn.microsoft.com/vbteam/), [C++]( https://blogs.msdn.microsoft.com/vcblog) and, [F#](https://blogs.msdn.microsoft.com/dotnet/tag/visual-f/) &#8212; to name a few.
 
-<hr style="border:1px solid Silver"> 
+<hr style="border:1px solid Silver">
 
 ## [Known Issues](https://developercommunity.visualstudio.com/topics/Known+issue-in%3A+Visual+Studio+2017+version+15.3.html)  
 <a href="https://developercommunity.visualstudio.com/topics/Known+issue-in%3A+Visual+Studio+2017+version+15.3.html "><img src="media/Known Issues Button2.png" alt="Visual Studio 2017 Known Issues"></a> See all existing known issues and available workarounds in Visual Studio 2017 version 15.3.  
 
 We are fully committed to listening to your feedback. Visit the [Developer Community](https://developercommunity.visualstudio.com/spaces/8/visual-studio-ide.html?unsolved=true) site to find the latest issues, log new issues, and upvote existing issues.
 
-<hr style="border:1px solid Silver"> 
+<hr style="border:1px solid Silver">
 
 ## [Visual Studio 2017 version 15.2 Release Notes](vs2017-relnotes-v15.2.md)
 <a href="https://developercommunity.visualstudio.com/topics/Fixed-in%3A+Visual+Studio+2017+version+15.2.html"><img src="media/DevComm-FixedIssues_Button.png" alt="The Developer Community Portal"></a> See customer-reported issues fixed in Visual Studio 2017 version 15.2.
@@ -438,7 +465,6 @@ We are fully committed to listening to your feedback. Visit the [Developer Comm
 ## [Visual Studio 2017 version 15.0 Release Notes](vs2017-relnotes-v15.0.md)
 <a href="https://developercommunity.visualstudio.com/topics/Fixed-in%3A+Visual+Studio+2017+version+15.0.html"><img src="media/DevComm-FixedIssues_Button.png" alt="The Developer Community Portal"></a> See customer-reported issues fixed in Visual Studio 2017 version 15.0.
 
-<hr style="border:1px solid Silver"> 
+<hr style="border:1px solid Silver">
 
 <center>[Top of Page](#top)</center>
-

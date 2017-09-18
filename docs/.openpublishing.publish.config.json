@@ -1,0 +1,78 @@
+{
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "VS_KnownIssues",
+      "build_source_folder": "KnownIssues",
+      "build_output_subfolder": "KnownIssues",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "VS_ReleaseNotes.static",
+      "build_source_folder": "ReleaseNotes",
+      "build_output_subfolder": "news/releasenotes",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.UHF"
+    },
+    {
+      "docset_name": "VS_downloads",
+      "build_source_folder": "Downloads",
+      "build_output_subfolder": "downloads",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "VS_productinfo.static",
+      "build_source_folder": "ProductInfo",
+      "build_output_subfolder": "productinfo",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.UHF"
+    }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [
+    " "
+  ],
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes.VS.UHF",
+      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
+      "branch": "master",
+      "branch_mapping": {}
+    }
+  ],
+  "need_generate_pdf_url_template": false
+}

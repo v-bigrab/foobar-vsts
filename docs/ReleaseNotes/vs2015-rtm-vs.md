@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: July 20
-Title: Visual Studio 2015 RTM
-Description: Visual Studio Team Services release notes for July 20 2015
-ms.ContentId: 34addeb0-49e3-4365-9cec-cc70c4172078
+title: Visual Studio 2015 RTM
+description: Visual Studio Team Services release notes for July 20 2015
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 08/14/2017
+ms.topic: release-article
+ms.prod: vs-alm-devops
+ms.technology: vs-devops-articles
+ms.ContentId: 34addeb0-49e3-4365-9cec-cc70c4172078
 ---
 
 # <a id="top"> </a> Visual Studio 2015 RTM

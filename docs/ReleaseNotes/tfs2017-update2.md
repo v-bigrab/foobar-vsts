@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 07/24/2017
 ms.topic: release-article
-ms.prod: visual-studio-tfs-dev15
-ms.service: visualstudio
+ms.prod: vs-alm-devops
+ms.technology: vs-devops-articles
 ms.assetid: 8998b698-b803-4304-8a00-f5180f7dc4f8
 ---
 

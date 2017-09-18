@@ -5,7 +5,7 @@ keywords: visualstudio> [!IMPORTANT]
 author: reshmim
 ms.author: reshmim
 manager: sacalla
-ms.date: 08/29/2017
+ms.date: 08/23/2017
 ms.topic: release-article
 ms.prod: visual-studio-dev15
 ms.service: visualstudio
@@ -21,7 +21,16 @@ We’d love to hear from you! You can report a problem via the [Report a Problem
 either the installer or the Visual Studio IDE itself. You will find the option in the upper right hand corner. You can track your feedback in the [Developer Community](https://developercommunity.visualstudio.com/index.html) portal. For suggestions,
 let us know through the [UserVoice](https://visualstudio.uservoice.com/forums/121579-visual-studio) site.
 
-<hr style="border:1px solid Silver"> 
+<hr style="border:1px solid Silver">
+
+## <a id="15.0.26228.16"></a>Release Date: September 18, 2017 - Visual Studio 2017 version 15.0 (26228.16)
+#### Issues Fixed
+* [Access Denied / Unknown Error / other issues when running on Win7 under multiple user contexts (Admin / normal)](https://developercommunity.visualstudio.com/content/problem/31188/access-denied-error-1.html).
+* [New Project menu fails with error Value cannot be null. Parameter name: eventId](https://developercommunity.visualstudio.com/content/problem/67355/new-project-menu-fails-with-error-value-cannot-be.html).
+* [The version of Git that ships in VS has been patched to address Git CVE 2017-1000117](https://blogs.msdn.microsoft.com/devops/2017/08/15/git-vulnerability-with-submodules/).
+* The optional Git for Windows component has been upgraded to v2.14.1.
+
+<hr style="border:1px solid Silver">
 
 ## <a id="15.0.26228.13"></a>Release Date: May 23, 2017 - Visual Studio 2017 version 15.0 (26228.13)
 #### Issues Fixed
@@ -1072,5 +1081,6 @@ The Azure SDK for .NET Visual Studio is now available to be installed with the n
 <a href="https://developercommunity.visualstudio.com/topics/Fixed-in%3A+Visual+Studio+2017+Version+15.1.html"><img src="media/DevComm Button.png" alt="The Developer Community Portal"></a> See customer-reported issues fixed in Visual Studio 2017 version 15.1.
 ## [Known Issues](vs2017-knownissues.md)
 See all existing [known issues](vs2017-knownissues.md) and available workarounds in Visual Studio 2017.
+
 
 <center>[Top of Page](#top)</center>
