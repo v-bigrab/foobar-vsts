@@ -1,6 +1,6 @@
 - name: News
-  tocHref: /
-  topicHref: /
+  tocHref: /foobar-vsts/
+  topicHref: /foobar-vsts/
   items:
   - name: Release Notes
     tocHref: /foobar-vsts/releasenotes/
