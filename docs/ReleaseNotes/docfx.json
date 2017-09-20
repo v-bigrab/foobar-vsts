@@ -15,7 +15,7 @@
     ],
     "globalMetadata": {
         "ROBOTS": "INDEX, FOLLOW",
-        "breadcrumb_path": "_breadcrumb/toc.yml"
+        "breadcrumb_path": "~/releasenotes/_breadcrumb/toc.yml"
     },
     "externalReference": [
     ],
