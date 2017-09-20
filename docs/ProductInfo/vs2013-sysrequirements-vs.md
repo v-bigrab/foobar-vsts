@@ -7,8 +7,8 @@ ms.author: pchapman
 manager: sacalla
 ms.date: 09/07/2016
 ms.topic: release-article
-ms.prod: visual-studio-dev12
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 44e6b546-408e-4100-b374-8b2c40ca0488
 ---
 

@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 08/23/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: a69beb06-26da-4f8f-b5db-854b5aef74ac
 ---
 # <a id="top"> </a> Visual Studio 2017 version 15.0 Release Notes

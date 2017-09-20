@@ -6,8 +6,8 @@ author: conceptdev
 ms.author: crdun
 manager: sacalla
 ms.date: 05/10/2016
-ms.topic: release-article
-ms.prod: visual-studio-dev15
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.service: visualstudio
 ms.assetid: 9a1d6a2b-abaf-430c-9dfc-0cfaf526115f
 ---

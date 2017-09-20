@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: October 16
-Title: Visual Studio 2013 Update 4 (2013.4) RC
-Description: Get the release notes for Visual Studio 2013 Update 4 (2013.4) RTM to learn what's new in this release
-ms.ContentId: 63c0a83e-3b78-4fbe-a3a8-5187e11f1b20
+title: Visual Studio 2013 Update 4 (2013.4) RC
+description: Visual Studio 2013 Update 4 (2013.4) RC
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 10/16/2014
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 63c0a83e-3b78-4fbe-a3a8-5187e11f1b20
 ---
 
 # <a id="top"> </a>Visual Studio 2013 Update 4 (2013.4) RC

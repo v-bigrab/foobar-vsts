@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: May 12
-Title: Visual Studio 2013 Update 2 RTM
-Description: Visual Studio 2013 Update 2 developer tools includes features like targeting the Windows Phone 8.1 platform or building universal Windows apps.
-ms.ContentId: 8ba68838-6c07-44fe-ab7e-dcaeebfd617d
+title: Visual Studio 2013 Update 2 RTM
+description: Visual Studio 2013 Update 2 RTM
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 05/12/2014
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 8ba68838-6c07-44fe-ab7e-dcaeebfd617d
 ---
 
 # <a id="top"> </a> Visual Studio 2013 Update 2 RTM

@@ -1,9 +1,15 @@
 ---
-TocTitle: November 12
-Title: Visual Studio Community 2013
-Description: Visual Studio Community 2013 is a new release that enables you to unleash the full power of Visual Studio to develop cross-platform solutions.
-ms.ContentId: c83ce886-4fc8-4ef0-b1be-0bf8eb63fa88
+title: Visual Studio Community 2013
+description: Visual Studio Community 2013
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 11/12/2013
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: c83ce886-4fc8-4ef0-b1be-0bf8eb63fa88
 ---
 
 # Visual Studio Community 2013

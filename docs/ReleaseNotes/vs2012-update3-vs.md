@@ -1,9 +1,16 @@
 ﻿---
-ms.TocTitle: June 26
-Title: Visual Studio 2012 Update 3
-Description: Visual Studio 2012 Update 3 is the latest update for Visual Studio 2012, which provides mostly fixes for a variety of issues.
-ms.ContentId: ddc30b58-0769-4c88-b5e7-2116c8adc1ef
+title: Visual Studio 2012 Update 3 Release Notes
+description: Visual Studio 2012 Update 3 Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 06/26/2013
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: ddc30b58-0769-4c88-b5e7-2116c8adc1ef
+
 ---
 
 # Visual Studio 2012 Update 3

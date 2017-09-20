@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: March 30
-Title: Visual Studio 2015 Update 2
-Description: Learn more about the most recent release of Visual Studio 2015 Update 2.
-ms.ContentId: 9fb78edc-10cd-4c06-83f8-fc233f2be901
+title: Visual Studio 2015 Update 2
+description: Visual Studio 2015 Update 2
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 03/30/2016
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 9fb78edc-10cd-4c06-83f8-fc233f2be901
 ---
 
 # <a id="top"> </a> Visual Studio 2015 Update 2

@@ -1,9 +1,16 @@
 ---
-ms.TocTitle: May 5
-Title: Team Foundation Server 2015 Update 2
-Description: Learn more about TFS 2015 Update 2
-ms.ContentId: d55ea4bb-56ea-4598-9ba7-7045189bc344
+title: Team Foundation Server 2015 Update 2 Release Notes
+description: Team Foundation Server 2015 Update 2 Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 05/05/2016
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: d55ea4bb-56ea-4598-9ba7-7045189bc344
+
 ---
 
 # <a id="top"> </a> Team Foundation Server 2015 Update 2

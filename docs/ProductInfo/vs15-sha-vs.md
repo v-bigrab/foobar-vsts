@@ -1,5 +1,5 @@
 ---
-redirect_url: /productinfo/vs2017-sha-vs
+redirect_url: /productinfo/vs2015-sha-vs
 ---
 
 #<a id="top"> </a>  Visual Studio 2017 ISO Files SHA-1 Hashes

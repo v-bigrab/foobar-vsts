@@ -5,10 +5,10 @@ keywords: visualstudio
 author: pchapman
 ms.author: pchapman
 manager: sacalla
-ms.date: 7/24/2017
+ms.date: 07/24/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 1883171b-6f5e-4a28-97de-882da08aa664
 ---
 

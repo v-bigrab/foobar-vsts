@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 09/07/2016
 ms.topic: release-article
-ms.prod: visual-studio-dev14
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 347eb937-d7a4-4085-bbb2-ed2ce2349d7b
 ---
 

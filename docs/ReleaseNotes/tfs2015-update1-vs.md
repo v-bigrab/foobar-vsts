@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: November 30
-Title: Team Foundation Server 2015 Update 1
-Description: Learn more about TFS 2015 Update 1.
-ms.ContentId: 33e1fb8d-f20d-4758-8565-8b8599b2dace
+title: Team Foundation Server 2015 Update 1 Release Notes
+description: Team Foundation Server 2015 Update 1 Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 11/30/2015
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 33e1fb8d-f20d-4758-8565-8b8599b2dace
 ---
 
 # <a id="top"> </a> Team Foundation Server 2015 Update 1
@@ -120,7 +126,7 @@ You can now rename columns on your Kanban board in place, without having to jump
 
 Team Explorer has a new Pull Requests hub where users can see the list of pull requests they have created as well as the pull requests others have assigned to them. The Create Pull Request experience has been improved to enable users to publish branches and create pull requests in a single action.
 
-### <a id="idpullq"> </a> \#ID in pull requests
+### <a id="idpull"> </a> \#ID in pull requests
 
 You can now mention work items using the "#" symbol in pull request discussions, pull request code comments, and commit code comments. Those work items are clickable and present the work item light box experience that you're familiar with.
 

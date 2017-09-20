@@ -7,7 +7,7 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 08/14/2017
 ms.topic: release-article
-ms.prod: vs-alm-devops
+ms.prod: vs-devops-alm
 ms.technology: vs-devops-articles
 ms.assetid: 8c51e744-d265-4b70-a5de-fb324d168019
 ---

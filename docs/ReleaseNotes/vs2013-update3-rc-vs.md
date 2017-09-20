@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: July 2
-Title: Visual Studio 2013 Update 3 RC
-Description: Get the release notes for Visual Studio 2013 Update 3 (2013.3) RC to learn what's new in this release.
-ms.ContentId: a89c33c9-cebf-4594-9755-508759901373
+title: Visual Studio 2013 Update 3 RC
+description: Visual Studio 2013 Update 3 RC
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 07/02/2014
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: a89c33c9-cebf-4594-9755-508759901373
 ---
 
 # <a id="top"> </a> Visual Studio 2013 Update 3 RC

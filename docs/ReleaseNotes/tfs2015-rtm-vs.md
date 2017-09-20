@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: August 6
-Title: Team Foundation Server 2015 RTM
-Description: Learn more about the newest version of TFS.
-ms.ContentId: 4ea3e442-ac9e-470e-aaa7-767b8e4ae07d
+title: Team Foundation Server 2015 RTM Release Notes
+description: Team Foundation Server 2015 RTM Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 08/06/2015
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 4ea3e442-ac9e-470e-aaa7-767b8e4ae07d
 ---
 
 # <a id="top"> </a> Team Foundation Server 2015 RTM

@@ -1,9 +1,15 @@
 ﻿---
-ms.TocTitle: July 20
-Title: Visual Studio 2013 Update 5 (2013.5) RTM
-Description: Learn more about the most recent release of Visual Studio 2013.
-ms.ContentId: 08449a4e-059b-487f-ba1e-17cb7d7f27fa
+title: Visual Studio 2013 Update 5 (2013.5) RTM
+description: Visual Studio 2013 Update 5 (2013.5) RTM
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 07/20/2015
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 08449a4e-059b-487f-ba1e-17cb7d7f27fa
 ---
 
 # Visual Studio 2013 Update 5 (2013.5) RTM

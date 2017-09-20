@@ -7,8 +7,8 @@ ms.author: crdun
 manager: sacalla
 ms.date: 07/17/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 90c09c5c-ec84-4a49-8072-c921338ade36
 ---
 

@@ -1,9 +1,15 @@
 ﻿---
-ms.TocTitle: April 4
-Title: Visual Studio 2012 Update 2
-Description: Visual Studio 2012 Update 2 (Visual Studio 2012.2) is a cumulative release that includes Update 1, and new enhancements in several areas.
-ms.ContentId: f93c3f11-60ff-423a-aa7c-046f0185f3e3
+title: Visual Studio 2012 Update 2 Release Notes
+description: Visual Studio 2012 Update 2 Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 04/04/2013
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: f93c3f11-60ff-423a-aa7c-046f0185f3e3
 ---
 
 # Visual Studio 2012 Update 2

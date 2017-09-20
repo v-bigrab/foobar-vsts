@@ -7,8 +7,8 @@ ms.author: denizd
 manager: sacalla
 ms.date: 05/10/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 6d88efce-7a29-4369-93d1-e7f4c8be6bba
 ---
 

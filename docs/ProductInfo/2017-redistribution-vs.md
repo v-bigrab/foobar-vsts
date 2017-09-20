@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 9/15/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: fe66e774-caa0-4441-b9cf-6b3701b8b5dc
 ---
 
@@ -62,13 +62,13 @@ Redistributable files for Blend Project and Item Templates for Visual Studio are
 * [VisualStudioFolder]\Common7\IDE\ProjectTemplates  
 * [VisualStudioFolder]\Common7\IDE\ItemTemplates  
 * [VisualStudioFolder]\DesignTools\AppThemes  
-* [Program Files (x86)]\MSBuild\Microsoft\Expression\Blend\.NETFramework 
+* [Program Files (x86)]\MSBuild\Microsoft\Expression\Blend\\.NETFramework  
 
 #### Blend for Visual Studio
 
 Redistributable files for Blend for Visual Studio are installed in the following locations:  
-* [Program Files (x86)]\Microsoft SDKs\Expression\Blend\.NETFramework\v4.0  
-* [Program Files (x86)]\Microsoft SDKs\Expression\Blend\.NETFramework\v4.5  
+* [Program Files (x86)]\Microsoft SDKs\Expression\Blend\\.NETFramework\v4.0   
+* [Program Files (x86)]\Microsoft SDKs\Expression\Blend\\.NETFramework\v4.5  
 
 #### Sample Data Resources
 

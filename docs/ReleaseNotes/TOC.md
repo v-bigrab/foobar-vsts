@@ -33,7 +33,8 @@
 ##[SHA-1 Values](https://www.visualstudio.com/en-us/productinfo/tfs2018-sha)
 
 #Team Foundation Server 2017
-##[TFS Update 2](tfs2017-update2.md) 
+##[TFS Update 3](tfs2017-update3.md)
+##[TFS Update 2](tfs2017-update2.md)
 ##[TFS Update 1](tfs2017-update1.md)
 ##[TFS RTW](tfs2017-relnotes.md)
 ##[SHA-1 Values](https://www.visualstudio.com/productinfo/tfs2017-sha)

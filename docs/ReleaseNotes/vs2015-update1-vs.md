@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: November 30
-Title: Visual Studio 2015 Update 1
-Description: Visual Studio Team Services release notes for November 30 2015
-ms.ContentId: 55f40341-1046-42bd-8b37-a87d8e4228db
+title: Visual Studio 2015 Update 1
+description: Visual Studio 2015 Update 1
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 11/30/2015
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 55f40341-1046-42bd-8b37-a87d8e4228db
 ---
 
 # <a id="top"> </a> Visual Studio 2015 Update 1

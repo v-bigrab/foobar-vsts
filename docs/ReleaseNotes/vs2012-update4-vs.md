@@ -1,9 +1,15 @@
 ﻿---
-ms.TocTitle: November 13
-Title: Visual Studio 2012 Update 4
-Description: Visual Studio Update 4 is part of the cumulative series of feature additions and bug fixes to enhance and expand Visual Studio 2012.
-ms.ContentId: 22d170f7-9214-4840-a348-8a88109eed8f
+title: Visual Studio 2012 Update 4 Release Notes
+description: Visual Studio 2012 Update 4 Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 11/13/2013
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 22d170f7-9214-4840-a348-8a88109eed8f
 ---
 
 # Visual Studio 2012 Update 4

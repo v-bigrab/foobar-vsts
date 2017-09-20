@@ -1,9 +1,15 @@
 ﻿---
-ms.TocTitle: November 26
-Title: Team Visual Studio 2012 Update 1
-Description: Visual Studio 2012 Update 1 includes enhancements that span feature areas across all editions, with a special focus on Premium and Ultimate.
-ms.ContentId: 6ac90882-9c86-4935-a9a0-11bb47e5f6cc
+title: Visual Studio 2012 Update 1 Release Notes
+description: Visual Studio 2012 Update 1 Release Notes
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 11/26/2012
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 6ac90882-9c86-4935-a9a0-11bb47e5f6cc
 ---
 
 # Visual Studio 2012 Update 1

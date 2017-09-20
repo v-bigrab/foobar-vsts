@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: April 2
-Title: Visual Studio 2013 Update 2 (Build 2014)
-Description: Release notes for the April release of Visual Studio 2013 Update 2, which was an RC release for all but TFS and TFS Express.
-ms.ContentId: 40269188-c808-4e7e-b5fc-b3dda1850204
+title: Visual Studio 2013 Update 2 (Build 2014)
+description: Visual Studio 2013 Update 2 (Build 2014)
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 04/02/2014
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 40269188-c808-4e7e-b5fc-b3dda1850204
 ---
 
 # <a id="top"> </a> Visual Studio 2013 Update 2 (Build 2014)

@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: October 17
-Title: What's New in Visual Studio 2013
-Description: Visual Studio 2013 builds on the advances delivered in Visual Studio 2012 and subsequent updates to provide comprehensive tools for dev teams.
-ms.ContentId: 2cd09a95-ae80-4f82-a29a-16d43eace25d
+title: Visual Studio 2013 RTM
+description: Visual Studio 2013 RTM
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 10/17/2013
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 2cd09a95-ae80-4f82-a29a-16d43eace25d
 ---
 
 # <a id="top"> </a> What's New in Visual Studio 2013

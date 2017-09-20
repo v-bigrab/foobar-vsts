@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: January 20
-Title: Visual Studio 2013 Update 1
-Description: Visual Studio 2013 Update 1 is the first in a cumulative series of feature additions and bug fixes to enhance and expand Visual Studio 2013.
-ms.ContentId: dc26b986-6bea-4c17-afef-773c9e95fe72
+title: Visual Studio 2013 Update 1
+description: Visual Studio 2013 Update 1
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 01/20/2014
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: dc26b986-6bea-4c17-afef-773c9e95fe72
 ---
 
 # Visual Studio 2013 Update 1

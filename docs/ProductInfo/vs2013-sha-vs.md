@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 09/07/2016
 ms.topic: release-article
-ms.prod: visual-studio-dev12
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: d2040ca9-e8be-4fd2-b50b-ac69ab835704
 ---
 
@@ -21,7 +21,7 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 **Note** The hashes provided below only apply to downloads obtained from the Visual Studio and Microsoft Downloads websites.
 
 **Team Foundation Server Update 1**
-* [Team Foundation Server Update 1 RC1](#tfsu1rc1)
+* [Team Foundation Server Update 1 RC1](/releasenotes/tfs2015-update1-vs)
 
 **Visual Studio 2013 Update 5**
 * [Visual Studio 2013 Update 5](#vsU5)

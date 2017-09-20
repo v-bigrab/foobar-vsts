@@ -7,8 +7,8 @@ ms.author: denizd
 manager: sacalla
 ms.date: 05/10/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: dde71a19-97af-4e3e-a5fb-90104abe5cbe
 ---
 
@@ -40,7 +40,7 @@ During the support lifecycle, Microsoft will designate one of the Updates of tha
 
 * For Visual Studio 2017, the service pack has not yet been designated. For Team Foundation Server 2017, the service pack has not yet been designated. 
 
-* For Visual Studio 2015, the designated Service Pack is Update 3 with the latest release of  [KB3165756](https://msdn.microsoft.com/library/mt752379.aspx). For Team Foundation Server 2015, there were two designated Service Packs - Update 3 and Update 4. Please see [Team Foundation Server product entry on the Lifecycle Policy site](https://support.microsoft.com/en-us/lifecycle/search?alpha=team%20foundation%20server%202015) for dates.
+* For Visual Studio 2015, the designated Service Pack is Update 3 with the latest release of  [KB3165756](https://msdn.microsoft.com/library/mt752379.aspx). For Team Foundation Server 2015, there were two designated Service Packs - Update 3 and Update 4. Please see the [Team Foundation Server product entry on the Lifecycle Policy site](https://support.microsoft.com/en-us/lifecycle/search?alpha=team%20foundation%20server%202015) for dates.
 
 * For Visual Studio 2013 and Team Foundation Server 2013, the designated Service Pack is Update 5.
 
@@ -98,7 +98,7 @@ For those components that are installed by Visual Studio and do not have an expl
 <tr>
   <td><FONT SIZE="2">[Microsoft Azure](https://support.microsoft.com/help/18486)</td>
   <td><FONT SIZE="2">[Application Insights](https://support.microsoft.com/help/17139)</td>
-  <td><FONT SIZE="2">[Xamarin](https://developer.xamarin.com/guides/cross-platform/troubleshooting/support-options/)</td>
+  <td><FONT SIZE="2">[Xamarin](https://developer.xamarin.com/releases/current/)</td>
 </tr>
 <tr>
   <td><FONT SIZE="2">Cordova Tools for Visual Studio</td>

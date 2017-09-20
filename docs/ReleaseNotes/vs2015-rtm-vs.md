@@ -7,7 +7,7 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 08/14/2017
 ms.topic: release-article
-ms.prod: vs-alm-devops
+ms.prod: vs-devops-alm
 ms.technology: vs-devops-articles
 ms.ContentId: 34addeb0-49e3-4365-9cec-cc70c4172078
 ---
@@ -25,7 +25,7 @@ You can download Visual Studio 2015 from [My.VisualStudio.com](https://www.visua
 
 For additional information, see [How to Install a Specific Release of Visual Studio](https://msdn.microsoft.com/library/mt653628.aspx).
 
-To learn more about the most recent version of TFS, see the [Team Foundation Server 2015 release notes](https://www.visualstudio.com/news/tfs2015-vs).
+To learn more about the most recent version of TFS, see the [Team Foundation Server 2015 release notes](https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs).
 
 ### What's in Visual Studio 2015 RTM
 

@@ -5,10 +5,10 @@ keywords: visualstudio
 author: denizd
 ms.author: denizd
 manager: sacalla
-ms.date: 09/07/2016
+ms.date: 09/07/2017
 ms.topic: release-article
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 17f5d00a-681f-4dc5-bdac-6f82b1ebb725
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: Team Foundation Server 2015 Update 3 Release Notes
 description: Team Foundation Server 2015 Update 3 Release Notes
-keywords: visualstudio
+keywords: visualstudio> [!IMPORTANT]
 author: reshmim
 ms.author: reshmim
 manager: sacalla
 ms.date: 09/07/2016
 ms.topic: release-article
-ms.prod: visual-studio-tfs-dev14
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 2f2e5375-4c56-4286-944c-7a28aa1ad3ec
 ---
 

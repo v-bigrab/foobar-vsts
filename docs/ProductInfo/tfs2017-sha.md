@@ -7,8 +7,8 @@ ms.author: reshmim
 manager: sacalla
 ms.date: 07/24/2017
 ms.topic: release-article, localize
-ms.prod: visual-studio-dev15
-ms.service: visualstudio
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
 ms.assetid: 3456a71e-bbb7-4a98-a116-0572d50d0869
 ---
 
@@ -21,6 +21,40 @@ The Microsoft File Checksum Integrity Verifier tool is an unsupported command li
 [Download the Microsoft File Checksum Integrity Verifier](https://support.microsoft.com/en-us/kb/841290)
 
 **Note** The hashes provided below only apply to downloads obtained from [visualstudio.com](https://www.visualstudio.com/downloads). Visual Studio 2017 no longer supports ISO installers. For Visual Studio 2015, please visit the [Visual Studio 2015 ISO Files SHA-1 Hashes](https://www.visualstudio.com/productinfo/vs2015-sha-vs) page.
+
+#### Team Foundation Server 2017 Update 3 RC2   
+
+| Language |  SHA-1 Hashes |                                      
+| ------------------------------- | ----------------------------------------- 
+|Chinese-Simplified | 1CBF92078CBD33D47A9F42DF198B091512569C1C
+|Chinese-Traditional | 448114A629DD161F71C5C25CFEDE8FD2760278C4
+|German | AAF1E604A79905707662306A08C97A8DD904B65D
+|English | C016F00C3A898B3F2B6B18791579DD46EDBD2B1D
+|Spanish | 5C95A6259035E30C2D14EABDF01C9A4337285B5A
+|French | EC845D181539CF28FE1D415FCC8E2AD715E50103
+|Italian | 1B73ECB215CB915F656FAA8D32565F0114994554
+|Japanese | 378FAAA7179D89BFD9411BF4A0A787A965A459BA
+|Korean | 9600A70A50C62729962B4BBE46D1891C2BB017BC
+|Russian | 867A5D817E6AB4572D7653B8314FE09450DE2C56
+
+</br>
+
+#### Team Foundation Server Express 2017  Update 3 RC2 
+          
+| Language |  SHA-1 Hashes |                                      
+| ------------------------------- | -----------------------------------------  
+|Chinese-Simplified | 9A8EA1DFF9830886FEB644602DB6049C853F6E7C
+|Chinese-Traditional | CA2E309C3676967261A837CFB08CF62790A00BF6
+|German | D2C8BDC66828FF03FC835952B6D0B3C7E05D3682
+|English | 44577B4B685BD9F3D35208B0D475093996C51431
+|Spanish | E5D3BD87DDC00D5CBD25F275B932AE92521D5BAE
+|French | 72EE044A3139DF3882899E8D7124BA114AB5CA70
+|Italian | C2D80FF905CF9D16EBDA4A01A7EB7D87E7567342
+|Japanese | 8EF4B029716B17160DCEF82B40638350083B8073
+|Korean | FC954CD3451920AFE2B0D5214AC2956131B54860
+|Russian | B005A3530A3AA3FF997867992110CE36686C47C9
+
+</br>
 
 #### Team Foundation Server 2017 Update 2 RTW  
 
@@ -58,7 +92,6 @@ Download the latest version of <a href="https://www.visualstudio.com/downloads" 
 
 </br>
 
-
 #### Team Foundation Server 2017 Update 2 RC2   
 
 | Language |  SHA-1 Hashes |                                      
@@ -76,8 +109,8 @@ Download the latest version of <a href="https://www.visualstudio.com/downloads" 
 
 </br>
 
-#### Team Foundation Server Express 2017  Update 2 RC2
-
+#### Team Foundation Server Express 2017 Update 2 RC2 
+          
 | Language |  SHA-1 Hashes |                                      
 | ------------------------------- | -----------------------------------------  
 |Chinese-Simplified | 697965F618770FC2A8582E44EB6A4B294678C946
@@ -179,6 +212,7 @@ Download the latest version of <a href="https://www.visualstudio.com/downloads" 
 |Japanese | B7C0D4B5668088F3BB9AB231D4C81D82452132FB
 |Korean | A4154C31365886D725E29FE93C356465D6210998
 |Russian | 7B651E2542A2AC722ACBA7B85E6F1D8061F568BD
+
 
 
 [Top of Page](#top)

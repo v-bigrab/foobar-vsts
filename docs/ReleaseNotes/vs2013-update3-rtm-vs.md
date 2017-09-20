@@ -1,9 +1,15 @@
 ---
-ms.TocTitle: August 4
-Title: Visual Studio 2013 Update 3 (2013.3) RTM
-Description: Get the release notes for Visual Studio 2013 Update 3 (2013.3) RTM to learn what's new in this release.
-ms.ContentId: 78b16e5e-4c7d-4ef1-99d4-dae0f1b3d8b0
+title: Visual Studio 2013 Update 3 (2013.3) RTM
+description: Visual Studio 2013 Update 3 (2013.3) RTM
+keywords: visualstudio> [!IMPORTANT]
+author: reshmim
 ms.author: reshmim
+manager: sacalla
+ms.date: 08/04/2014
+ms.topic: release-article
+ms.prod: vs-devops-alm
+ms.technology: vs-devops-articles
+ms.ContentId: 78b16e5e-4c7d-4ef1-99d4-dae0f1b3d8b0
 ---
 
 # <a id="top"> </a> Visual Studio 2013 Update 3 (2013.3) RTM
